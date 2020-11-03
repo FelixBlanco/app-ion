@@ -1,0 +1,7 @@
+<?xml version='1.0' encoding='utf-8'?>
+<resources>
+    <string name="app_name">ts</string>
+    <string name="title_activity_main">ts</string>
+    <string name="package_name">ts.blancofelix.com</string>
+    <string name="custom_url_scheme">ts.blancofelix.com</string>
+</resources>
